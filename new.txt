@@ -1,2 +1,2 @@
 hello Git!
-this is my first change.
+I am learning software engineering.
